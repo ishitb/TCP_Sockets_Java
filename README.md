@@ -20,7 +20,7 @@ The server uses the Java Graphics module to build the graph and captures an imag
 >  X :
 > |   | A | B | C | D | E |
 > | ----- | ----- | ----- | ----- | ----- | ----- |
-> | A |  | 0 | 1 | 1 | 1 | 0 |
+> | A | 0 | 1 | 1 | 1 | 0 |
 > | B | 0 | 0 | 0 | 1 | 1 |
 > | C | 1 | 0 | 0 | 0 | 1 |
 > | D | 0 | 0 | 0 | 0 | 0 |
