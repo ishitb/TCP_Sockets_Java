@@ -27,8 +27,11 @@ The server uses the Java Graphics module to build the graph and captures an imag
 > | E | 1 | 1 | 0 | 1 | 0 |
 
 > n: 2
+
 > B: C
+
 > C: D
 
 ### Result (on client)
 
+<img src="https://github.com/ishitb/TCP_Sockets_Java/blob/main/Result.png"/>
